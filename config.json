@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvalidate",
+        "uuid": 7054496,
+        "checksum": "t6nzba"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
